@@ -1,0 +1,39 @@
+16:57:20.068 INFO - Selenium build info: version: '3.0.1', revision: '1969d75'
+16:57:20.069 INFO - Launching a standalone Selenium Server
+2017-05-04 16:57:20.113:INFO::main: Logging initialized @615ms
+16:57:20.204 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+ registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform MAC
+16:57:20.204 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+ registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform MAC
+16:57:20.204 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+16:57:20.204 INFO - Driver provider com.opera.core.systems.OperaDriver registration is skipped:
+Unable to create new instances on this machine.
+16:57:20.204 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+16:57:20.204 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+2017-05-04 16:57:20.282:INFO:osjs.Server:main: jetty-9.2.15.v20160210
+2017-05-04 16:57:20.316:INFO:osjsh.ContextHandler:main: Started o.s.j.s.ServletContextHandler@4f933fd1{/,null,AVAILABLE}
+2017-05-04 16:57:20.368:INFO:osjs.ServerConnector:main: Started ServerConnector@4c70fda8{HTTP/1.1}{0.0.0.0:4444}
+2017-05-04 16:57:20.369:INFO:osjs.Server:main: Started @871ms
+16:57:20.369 INFO - Selenium Server is up and running
+16:57:20.698 INFO - SessionCleaner initialized with insideBrowserTimeout 0 and clientGoneTimeout 1800000 polling every 180000
+16:57:20.738 INFO - Executing: [new session: Capabilities [{acceptSslCerts=true, name=Sample Test, browserName=chrome, javascriptEnabled=true, platform=ANY}]])
+16:57:20.769 INFO - Creating a new session for Capabilities [{acceptSslCerts=true, name=Sample Test, browserName=chrome, javascriptEnabled=true, platform=ANY}]
+Starting ChromeDriver 2.28.455517 (2c6d2707d8ea850c862f04ac066724273981e88f) on port 6723
+Only local connections are allowed.
+16:57:21.400 INFO - Attempting bi-dialect session, assuming Postel's Law holds true on the remote end
+16:57:22.416 INFO - Detected dialect: OSS
+16:57:22.436 INFO - Done: [new session: Capabilities [{acceptSslCerts=true, name=Sample Test, browserName=chrome, javascriptEnabled=true, platform=ANY}]]
+16:57:22.457 INFO - Executing: [get: https://localhost:8000/blink/])
+16:57:22.864 INFO - Done: [get: https://localhost:8000/blink/]
+16:57:22.874 INFO - Executing: [find elements: By.cssSelector: body])
+16:57:22.944 INFO - Done: [find elements: By.cssSelector: body]
+16:57:22.962 INFO - Executing: [is displayed: 0 [[ChromeDriver: chrome on MAC (0b0ed9c3183d6bf7733049176da3ac69)] -> css selector: body]])
+16:57:23.012 INFO - Done: [is displayed: 0 [[ChromeDriver: chrome on MAC (0b0ed9c3183d6bf7733049176da3ac69)] -> css selector: body]]
+16:57:23.019 INFO - Executing: [find elements: By.cssSelector: input#sg-email])
+16:57:23.091 INFO - Done: [find elements: By.cssSelector: input#sg-email]
+16:57:23.601 INFO - Executing: [find elements: By.cssSelector: input#sg-email])
+16:57:23.612 INFO - Done: [find elements: By.cssSelector: input#sg-email]
+16:57:24.120 INFO - Executing: [find elements: By.cssSelector: input#sg-email])
+16:57:24.136 INFO - Done: [find elements: By.cssSelector: input#sg-email]
+16:57:24.145 INFO - Executing: [delete session: d2d063c2-7813-4cc1-b078-6fee876c5cef])
+16:57:24.283 INFO - Done: [delete session: d2d063c2-7813-4cc1-b078-6fee876c5cef]

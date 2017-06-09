@@ -1,0 +1,6 @@
+{
+  "application-name": "blink",
+  "authentication": {
+    "logout": "Déconnexion"
+  }
+}

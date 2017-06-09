@@ -1,0 +1,15 @@
+{
+  "data": {
+    "user": {
+      "firstName": "Soufiane",
+      "roles": [
+        {
+          "name": "admin"
+        },
+        {
+          "name": "user"
+        }
+      ]
+    }
+  }
+}

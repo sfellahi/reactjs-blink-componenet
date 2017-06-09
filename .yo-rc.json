@@ -1,0 +1,10 @@
+{
+  "generator-sg-fastit": {
+    "applicationName": "blink",
+    "applicationFolder": "blink",
+    "clientRequired": true,
+    "clientLanguage": "es6",
+    "serverRequired": true,
+    "serverPort": "y"
+  }
+}
