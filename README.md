@@ -1,11 +1,5 @@
-blink
-=====
-
-![Build Status](https://circleci.com/gh/<insert-user-name-here>/blink.svg?style=shield&circle-token=<insert-token-here>)
-
-
-Description of the project, the main features of the application, and the value for the client.
-
+Blink is back?
+====
 
 Documentation index
 -------------------
